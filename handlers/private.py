@@ -9,7 +9,7 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     await message.reply_sticker("CAACAgUAAxkBAAIIZGEiH96Yu_9bkSunNhwyD-sRfEvSAAKPAgAClxEJVWqLPQxaSQ79IAQ")
     await message.reply_text(
-        f"""**Hey, I'm {bn} 🎀
+        f"""**Hey, I'm Tzuyu Music 🎀
 ɪ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ ʏᴏᴜʀ  ɢʀᴏᴜᴩ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ. 
 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩ ᴀɴᴅ ᴘʟᴀʏ ᴍᴜsɪᴄ ғʀᴇᴇʟʏ 🤗 Developed By [ᴘᴏɪsᴏɴ](https://t.me/ok_bie_bot) !**
 
